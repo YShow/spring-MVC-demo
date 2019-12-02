@@ -9,6 +9,16 @@ public class Student {
 	private String country;
 	private String favoriteLanguage;
 
+	private String[] operatingSystem;
+
+	public final String[] getOperatingSystem() {
+		return operatingSystem;
+	}
+
+	public final void setOperatingSystem(final String[] operatingSystem) {
+		this.operatingSystem = operatingSystem;
+	}
+
 	public final String getFavoriteLanguage() {
 		return favoriteLanguage;
 	}
