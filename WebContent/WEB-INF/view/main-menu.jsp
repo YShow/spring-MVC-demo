@@ -10,5 +10,9 @@
 <h2>Hello World - Spring MVC demo</h2>
 <hr>
 <a href="hello/showForm">Hello world form</a>
+
+<a href="student/showForm">Student Form</a>
+
+
 </body>
 </html>
