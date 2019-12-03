@@ -7,10 +7,9 @@
 <title>Input form</title>
 </head>
 <body>
-	<form action="processFormVersionThree" method="GET">
-		<input type="text" name="NomeEstudante" placeholder="Qual o seu nome?">
-		<input type="submit">
-	</form>
-
+<form action="processFormVersionThree" method="GET">
+<input type="text" name="NomeEstudante" placeholder="Qual o seu nome?">
+<input type="submit">
+</form>
 </body>
 </html>
